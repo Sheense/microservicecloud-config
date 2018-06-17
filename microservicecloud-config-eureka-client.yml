@@ -18,7 +18,7 @@ eureka:
      register-with-eureka: false
      fetch-registry: false
      service-url: 
-        defaultZone: http://euraka7001.com/eureka/
+        defaultZone: http://eureka7001.com/eureka/
 ---
 server: 
    port: 7001
@@ -35,5 +35,5 @@ eureka:
      register-with-eureka: false
      fetch-registry: false
      service-url: 
-        defaultZone: http://euraka7001.com/eureka/
+        defaultZone: http://eureka7001.com/eureka/
 
