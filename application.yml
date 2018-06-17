@@ -1,14 +1,14 @@
 ﻿spring: 
-      profiles: 
+    profiles: 
       active: 
-       - dev
+        - dev 
 ---
 spring: 
-    profiles: dev
-       application: 
-             name: microservicecloud-config-sheen-dev
+    profiles: dev 
+    application: 
+             name: microservicecloud-config-sheen-dev 
 ---
 spring: 
-      profiles: test
+      profiles: test 
       application: 
              name: microservicecloud-config-sheen-test
